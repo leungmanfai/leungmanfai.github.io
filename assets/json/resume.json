@@ -2,7 +2,8 @@
   "basics": {
     "name": "Man-Fai Leung",
     "image": "",
-    "url": "https://scholar.google.com/citations?user=auIXUW8AAAAJ",
+    "url": "https://scholar.google.com/citations?user=auIXUW8AAAAJ"
+  },
   "work": [
     {
       "name": "Faculty of Science and Engineering, Anglia Ruskin University",
@@ -52,5 +53,4 @@
       "courses": ["Theses: Collaborative Neurodynamic Approaches to Multiobjective Optimization and Their Applications in Portfolio Selection", "Supervisor: Prof. Jun Wang", "Co-Supervisor: Qingfu Zhang"]
     }
   ]
-}
 }
