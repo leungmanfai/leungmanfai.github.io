@@ -1,8 +1,10 @@
 ---
 layout: about
-title: about
+title: Man-Fai Leung
 permalink: /
 subtitle: School of Computing and Information Science, Faculty of Science and Engineering, Anglia Ruskin University, Cambridge, UK
+<br>
+<br>
 
 profile:
   align: right
