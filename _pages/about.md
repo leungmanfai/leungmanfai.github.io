@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Anglia Ruskin University</a>
+subtitle: School of Computing and Information Science, Faculty of Science and Engineering, Anglia Ruskin University, Cambridge, UK
 
 profile:
   align: right
