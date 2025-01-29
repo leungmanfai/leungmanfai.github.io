@@ -2,7 +2,7 @@
   "basics": {
     "name": "Man-Fai Leung",
     "image": "",
-    "url": "https://scholar.google.com/citations?user=auIXUW8AAAAJ"
+    "Google scholar": "https://scholar.google.com/citations?user=auIXUW8AAAAJ"
   },
   "work": [
     {
@@ -50,7 +50,7 @@
       "studyType": "PhD",
       "startDate": "2016-06",
       "endDate": "2019-07",
-      "courses": ["Theses: Collaborative Neurodynamic Approaches to Multiobjective Optimization and Their Applications in Portfolio Selection", "Supervisor: Prof. Jun Wang", "Co-Supervisor: Qingfu Zhang"]
+      "courses": ["Theses: Collaborative Neurodynamic Approaches to Multiobjective Optimization and Their Applications in Portfolio Selection", "Supervisor: Prof. Jun Wang", "Co-Supervisor: Prof. Qingfu Zhang"]
     }
   ]
 }
