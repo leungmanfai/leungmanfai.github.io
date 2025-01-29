@@ -27,8 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Man-Fai Leung received the Ph.D. degree in computer science from the City University of Hong Kong, Hong Kong, in 2019. He is currently with the School of Computing and Information Science, Faculty of Science and Engineering, Anglia Ruskin University, Cambridge, U.K. His current research interests include intelligent systems, optimization, computational intelligence, and their applications. He serves as an Associate Editor for Complex & Intelligent Systems [subreddit]([http://reddit.com](https://link.springer.com/journal/40747)) and Intelligent Systems with Applications [subreddit]([http://reddit.com](https://www.sciencedirect.com/journal/intelligent-systems-with-applications)). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
