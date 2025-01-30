@@ -40,7 +40,30 @@
       "url": "https://link.springer.com/journal/40747",
       "startDate": "2023-09",
       "endDate": "Present"
-    }
+    },
+    {
+      "organization": "The 18th International Symposium on Neural Networks (ISNN 2025)",
+      "location": "Zhangye, Gansu, China",
+      "position": "Publications Chair",
+      "url": "https://conference.cs.cityu.edu.hk/isnn/",
+      "startDate": "2025-08-22",
+      "endDate": "2025-08-24"
+    },
+    {
+      "organization": "The 17th International Conference on Advanced Computational Intelligence (ICACI 2025)",
+      "location": "Bath, UK",
+      "position": "Workshop Chair",
+      "url": "https://conference.cs.cityu.edu.hk/icaci/",
+      "startDate": "2025-07-07",
+      "endDate": "2025-07-13"
+    },
+    {
+      "organization": "The 13th International Conference on Information Science and Technology (ICIST 2023)",
+      "location": "Cairo, Egypt",
+      "position": "Workshop Chair",
+      "startDate": "2023-12-08",
+      "endDate": "2023-12-14"
+    }    
   ],
   "education": [
     {
