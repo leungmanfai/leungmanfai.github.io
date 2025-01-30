@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: School of Computing and Information Science, Faculty of Science and Engineering, Anglia Ruskin University, Cambridge, UK
 
