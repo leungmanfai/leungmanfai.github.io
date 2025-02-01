@@ -27,4 +27,4 @@ Throughout my career, I have published over 80 articles in prestigious journals 
 
 In addition to my research, I contribute to the academic community as an Associate Editor for the journals [Complex & Intelligent Systems](https://link.springer.com/journal/40747) and [Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications). I have also guest-edited special issues for several IEEE Transactions and other esteemed journals. My involvement extends to organizing international conferences, with a focus on advancements in computational intelligence and neural networks.
 
-I welcome applications from prospective PhD students. For more information about our PhD program, please visit the [Computing and Information Science MPhil, PhD page](https://www.aru.ac.uk/study/postgraduate/computer-science-research) on our department's website.
+I welcome applications from prospective MPhil and PhD students. For more information about our programs, please visit the [Computing and Information Science MPhil/PhD page](https://www.aru.ac.uk/study/postgraduate/computer-science-research) on our department's website.
