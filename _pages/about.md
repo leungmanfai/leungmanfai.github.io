@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>School of Computing and Information Science</p>
-    <p>Faculty of Science and Engineering</p>
-    <p>Anglia Ruskin University, Cambridge, UK</p>
+    <p><small>School of Computing and Information Science</small></p>
+    <p><small>Faculty of Science and Engineering</small></p>
+    <p><small>Anglia Ruskin University, Cambridge, UK</small></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
