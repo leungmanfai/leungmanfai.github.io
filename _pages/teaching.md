@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 <h3>Anglia Ruskin University</h3>
 <h4>Module Leader</h4>
