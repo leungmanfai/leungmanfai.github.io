@@ -4,7 +4,7 @@ permalink: /publications/
 title: Selected Publications
 description: intelligent systems; optimization; financial engineering; neural networks; multiview clustering
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
