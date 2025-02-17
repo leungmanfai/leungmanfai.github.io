@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 1 # leave blank to include all the news in the `_news` folder
 
 ---
 I am currently a lecturer at Anglia Ruskin University. My research focuses on intelligent systems, optimization, computational finance, urban planning, and data science. I earned my PhD in Computer Science from City University of Hong Kong, focusing my doctoral research on collaborative neurodynamic approaches to multi-objective optimization and their applications in portfolio selection.
