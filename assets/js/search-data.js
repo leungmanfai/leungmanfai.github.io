@@ -382,11 +382,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-recently-our-research-team-developed-an-ai-powered-lesson-plan-generator",
-          title: 'Recently, our research team developed an AI-powered lesson plan generator.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-recently-our-research-team-developed-an-ai-powered-lesson-plan-generator-feel-free-to-try",
+          title: 'Recently, our research team developed an AI-powered lesson plan generator. Feel free to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
