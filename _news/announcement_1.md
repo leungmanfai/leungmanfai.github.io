@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Recently, our research team developed an <a href="https://arulessonplan.z19.web.core.windows.net" target="_blank">AI-powered lesson plan generator</a>.
