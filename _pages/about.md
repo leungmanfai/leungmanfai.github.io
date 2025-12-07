@@ -17,8 +17,8 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit:  # leave blank to include all the news in the `_news` folder
 
 ---
 My research focuses on intelligent systems, optimization, computational finance, urban planning, and data science. I earned my PhD in Computer Science from City University of Hong Kong, focusing my doctoral research on collaborative neurodynamic approaches to multi-objective optimization and their applications in portfolio selection.
