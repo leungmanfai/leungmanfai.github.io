@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: SMIEEE, FHEA, PhD, Senior Lecturer @ Anglia Ruskin University, Cambridge, UK
+subtitle: SMIEEE, FHEA, PhD
+#, Senior Lecturer @ Anglia Ruskin University, Cambridge, UK
 
 
 profile:
