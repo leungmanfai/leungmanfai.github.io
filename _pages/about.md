@@ -22,8 +22,8 @@ announcements:
   limit:  # leave blank to include all the news in the `_news` folder
 
 ---
-My research focuses on intelligent systems, optimization, computational finance, urban planning, and data science. I earned my PhD in Computer Science from City University of Hong Kong, focusing my doctoral research on collaborative neurodynamic approaches to multi-objective optimization and their applications in portfolio selection.
+My research focuses on artificial intelligence, machine learning, optimization, and intelligent systems, with applications in areas such as computational finance, data analytics, and computer vision. I received my PhD in Computer Science from City University of Hong Kong, where my research focused on neurodynamic optimization and multi-objective optimization.
 
-Throughout my career, I have published over 80 articles in prestigious journals and at international conferences. My recent projects have involved leading investigations into high-dimensional data analysis, utilizing artificial neural networks for advanced portfolio management, and developing mobile applications to enhance sustainability literacy.
+My recent work covers multi-view learning, graph learning, large language models, intelligent transportation, biomedical applications, and optimization. I have published extensively in international journals and conferences.
 
-In addition to my research, I contribute to the academic community as an Associate Editor for the journals Complex & Intelligent Systems and Intelligent Systems with Applications. I have also guest-edited special issues for several IEEE Transactions and other esteemed journals. My involvement extends to organizing international conferences, with a focus on advancements in computational intelligence and neural networks.
+I also contribute to the academic community as an Associate Editor for Complex & Intelligent Systems and Intelligent Systems with Applications, and through editorial and conference service.
