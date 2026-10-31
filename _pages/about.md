@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: SMIEEE, FHEA, PhD, Lecturer @ University of Reading, Reading, UK
+subtitle: SMIEEE, FHEA, PhD, Lecturer @ University of Reading, Reading, U.K.
 
 
 profile:
